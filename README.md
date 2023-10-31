@@ -12,13 +12,13 @@ Download the script file from the repository or copy it locally. It supports bot
 1. Make the script executable:
 
    ````bash
-   chmod +x install_nodes.sh
+   chmod +x node.sh
    ```
 
 2. Run the script:
 
    ````bash 
-   ./install_nodes.sh
+   ./node.sh
    ```
 
 3. Follow the on-screen prompts to select a node to install.
